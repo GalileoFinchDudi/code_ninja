@@ -1,0 +1,9 @@
+package com.galileofinch.designpatterns.factory.button;
+
+public interface Button {
+
+    void render();
+
+    void onClick();
+
+}
