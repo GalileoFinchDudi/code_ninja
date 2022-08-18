@@ -1,4 +1,4 @@
-package com.galileofinch.designpatterns.builder.Components;
+package com.galileofinch.designpatterns.builder.components;
 
 import com.galileofinch.designpatterns.builder.cars.Car;
 

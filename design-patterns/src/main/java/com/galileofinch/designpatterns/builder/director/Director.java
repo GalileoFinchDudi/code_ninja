@@ -1,9 +1,9 @@
 package com.galileofinch.designpatterns.builder.director;
 
-import com.galileofinch.designpatterns.builder.Components.Engine;
-import com.galileofinch.designpatterns.builder.Components.GPSNavigator;
-import com.galileofinch.designpatterns.builder.Components.Transmission;
-import com.galileofinch.designpatterns.builder.Components.TripComputer;
+import com.galileofinch.designpatterns.builder.components.Engine;
+import com.galileofinch.designpatterns.builder.components.GPSNavigator;
+import com.galileofinch.designpatterns.builder.components.Transmission;
+import com.galileofinch.designpatterns.builder.components.TripComputer;
 import com.galileofinch.designpatterns.builder.builders.Builder;
 import com.galileofinch.designpatterns.builder.cars.CarType;
 

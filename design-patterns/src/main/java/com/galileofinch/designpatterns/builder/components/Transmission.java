@@ -1,4 +1,4 @@
-package com.galileofinch.designpatterns.builder.Components;
+package com.galileofinch.designpatterns.builder.components;
 
 public enum Transmission {
 
